@@ -1,6 +1,3 @@
-Here's a concise `README.md` for your "MERN Project" repository:
-
-```markdown
 # MERN Project
 
 Welcome to the MERN Project repository! This project contains a collection of applications built using the MERN stack (MongoDB, Express, React, and Node.js), demonstrating various functionalities from simple games to practical applications.
